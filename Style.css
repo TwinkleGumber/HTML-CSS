@@ -11,8 +11,8 @@ h1{
 	font-size: 54px;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	margin-left: 42px;
-	margin-right: 42px;
+	margin-left: 45px;
+	margin-right: 45px;
 
 }
 h2{
@@ -23,7 +23,7 @@ h2{
 
 }
 h3{
-	
+	font-size: 30px;
 	text-decoration: underline #08936e ;
     
 }
@@ -52,8 +52,8 @@ ul{
 }
 
 article{
-	margin-left: 42px;
-	margin-right: 42px;
+	margin-left: 45px;
+	margin-right: 45px;
 
 }
 img{
@@ -63,8 +63,8 @@ img{
 }
 
 footer{
-	margin-left: 42px;
-	margin-right: 42px;
+	margin-left: 45px;
+	margin-right: 45px;
 	background-color: #2F4F4F;
 	font-size: 38px;
 	color: white;
